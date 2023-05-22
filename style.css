@@ -47,7 +47,7 @@ body {
     box-shadow: 0px 0px 73px -15px hsla(0, 0%, 0%, 0.5);
     border-radius: 1.5rem;
     width: 750px;
-    height: 490px;
+    min-height: 490px;
     background-color: var(--white);
 }
 
